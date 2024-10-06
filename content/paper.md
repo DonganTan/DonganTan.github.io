@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Publications
+      title: Peer-Reviewed Publications
       text: ""
       filters:
         folders:
