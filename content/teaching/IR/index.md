@@ -18,4 +18,3 @@ Through lectures, readings, discussions, and assignments, we will analyze intern
 
 **Syllabus**
 
-
