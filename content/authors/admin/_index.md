@@ -47,7 +47,7 @@ interests:
   - Foreign Policy
 
 education:
-  - area: PhD in Political Science
+  - area: PhD, Political Science
     institution: Texas Tech University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -56,7 +56,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MA in Public Administration, 2018
+  - area: MA, Public Administration, 2018
     institution: Huazhong University of Science & Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -67,7 +67,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BA in Public Administration, 2016
+  - area: BA, Public Administration, 2016
     institution: Minzu University of China
     date_start: 2016-01-01
     date_end: 2020-12-31
