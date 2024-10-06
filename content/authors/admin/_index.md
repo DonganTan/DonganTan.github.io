@@ -1,17 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dongan Tan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Dongan
+last_name: Tan
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,40 +16,39 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate in Political Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Texas Tech University
+    url: https://www.depts.ttu.edu/politicalscience/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:dongan.tan@ttu.edu'
+    label: E-mail Me 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/DonganTan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/dongantan/
+ # - icon: academicons/google-scholar
+ #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0001-9552-1612
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Economic Sanctions
+  - Military Sanctions
+  - Globalization
+  - International Security
+  - Political Economy
+  - Foreign Policy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Political Science
+    institution: Texas Tech University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +56,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MA in Public Administration, 2018
+    institution: Huazhong University of Science & Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +67,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BA in Public Administration, 2016
+    institution: Minzu University of China
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -142,12 +137,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dongan Tan is a PhD candidate at Texas Tech University with majors in International Relations and Public Administration, and a minor in Methods. Her research focuses on sanctions in the context of globalization, analyzing both their inputs and outputs using diverse research methods such as game theory, causal inference methods, and network analysis. She also instructs courses in Political Analysis and International Relations. Outside of her academic pursuits, Dongan enjoys swimming, photography, and exploring new cuisines.
