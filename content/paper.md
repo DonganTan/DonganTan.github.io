@@ -9,8 +9,8 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
-    id: 
+  - block: collection
+    id: ''
     content:
       title: Peer-Reviewed Publications
       subtitle:''
@@ -22,7 +22,7 @@ sections:
     design:
       view: citation
   - block: markdown
-    id: 
+    id: ''
     content:
       title: Under Review
       subtitle: ''
