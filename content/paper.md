@@ -19,12 +19,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
+  - block: collection
     content:
       title: Under Review
       text:
       filters:
         folders:
           - underreview
-        exclude_featured: false 
+        exclude_featured: false
+    design:
+      view: citation 
 ---
