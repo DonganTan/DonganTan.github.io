@@ -16,20 +16,18 @@ International politics is a fascinating and constantly evolving field that explo
 
 Through lectures, readings, discussions, and assignments, we will analyze international relations through the framework of “interests, interactions, and institutions.” We will explore a wide range of topics, including the nature of power and security, war and peace, international political economy, transnational politics, and global challenges. By the end of the course, you will have gained a deeper understanding of the complexities and nuances of international politics and developed critical thinking and analytical skills to analyze global issues.
 
-{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
-
 ## Student Feedback
 
-"This was a great course. The professor was very engaging and was good at making sure everyone understood the content. You can tell that she cares and wants you to succeed in her class."
+- "This was a great course. The professor was very engaging and was good at making sure everyone understood the content. You can tell that she cares and wants you to succeed in her class."
 
-"I thoroughly enjoyed listening to Prof. Tan explain various concepts and I think she broke the topics down for the class to be able to easily understand what she was lecturing about."
+- "I thoroughly enjoyed listening to Prof. Tan explain various concepts and I think she broke the topics down for the class to be able to easily understand what she was lecturing about."
 
-"This was a good, effective class to learn more about international politics. I wish that the material for the class was posted on BlackBoard so I could study more, but going to class was very helpful. I also enjoyed the review days, because we could ask questions and clear up any reservations I had."
+- "This was a good, effective class to learn more about international politics. I wish that the material for the class was posted on BlackBoard so I could study more, but going to class was very helpful. I also enjoyed the review days, because we could ask questions and clear up any reservations I had."
 
-"Good instructor!"
+- "Good instructor!"
 
-"Good teacher and made sure we understood the course and what she was teaching."
+- "Good teacher and made sure we understood the course and what she was teaching."
 
-"The exam reviews were very, very helpful and much appreciated. Interesting class."
+- "The exam reviews were very, very helpful and much appreciated. Interesting class."
 
 
