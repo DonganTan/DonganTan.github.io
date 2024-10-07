@@ -19,7 +19,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: markdown
     content:
       title: Under Review
       text:

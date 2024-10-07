@@ -6,11 +6,11 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: ""
-doi: ""
+#date: ""
+doi: "10.1111/ijsw.12707"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+#publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
