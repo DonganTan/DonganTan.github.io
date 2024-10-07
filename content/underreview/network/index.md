@@ -7,7 +7,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2024-10-01T00:00:00Z"
-doi: "10.1111/ijsw.12707"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
@@ -18,10 +18,10 @@ doi: "10.1111/ijsw.12707"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Social Welfare*, forthcoming"
+publication: "*Journal of Conflict Resolution*, under review"
 publication_short: ""
 
-abstract: This study employs the two-stage difference-in-differences (2sDiD) estimator to investigate the causal effect of economic sanctions on political stability. It contributes to existing research by (1) re-evaluating sanctions’ impacts on political stability using newly introduced causal inference methods, and (2) distinguishing the effects of sanctions across various political regimes and economic globalization levels. The paper argues that economic sanctions create economic hardships for the target population, leading to public frustration towards their governments, which stimulates political mobilization and thereby decreases the country’s political stability. However, sanctions hurt democracies more than autocracies because autocratic regimes can suppress public dissent through repression and citizens face higher costs for opposition. Moreover, economic globalization offers targets alternatives to sanctioned products and services, potentially weakening sanctions thus damaging political stability more in low-globalized than in high-globalized countries. Empirical findings from 9,230 country-year observations between 1949 and 2022 largely align with the theoretical predictions, showing that economic sanctions undermine the target’s political stability, with these destabilizing effects contingent upon its political regime and economic globalization levels.
+abstract: This study investigates the impact of economic sanctions on a target country’s global trade using network analysis. It contributes to existing literature by (1) capturing the complexity of trade relationships beyond conventional bilateral trade flows, and (2) quantifying a country’s position and influence in international trade. Economic sanctions disrupt the target’s trade network by undermining its partnerships, reachability, and bridging capacity. They reduce the target’s trade partners by limiting market access and deterring potential partners due to fear of retaliation. Disrupted trade routes lead to delays, rerouting, and increased logistical expenses, diminishing the target’s reachability. Sanctions also erode trust and demand among reliant countries, reducing the target’s bridging role. Empirical findings from 158 countries between 1950 and 2014 strongly support this theory. A case study of Iran illustrates that while the initial repercussions of sanctions are substantial, the target can employ strategies to mitigate their long-term impact.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
