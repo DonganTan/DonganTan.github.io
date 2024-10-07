@@ -2,7 +2,7 @@
 title: "Determinants of Military Sanctions"
 authors:
 - admin
-- Robert Ford
+- Daehee Bak
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
