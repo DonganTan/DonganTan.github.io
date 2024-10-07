@@ -22,11 +22,5 @@ sections:
   - block: markdown
     content:
       title: Under Review
-      text:
-      filters:
-        folders:
-          - underreview
-        exclude_featured: false
-    design:
-      view: citation 
+      text: Add your Section 2 content here
 ---
