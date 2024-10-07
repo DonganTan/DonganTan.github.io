@@ -3,8 +3,8 @@ title: "The Impact of Economic Sanctions on International Trade: Evidence from N
 authors:
 - admin
 - Robert Ford
-#author_notes:
-#- "Equal contribution"
+author_notes:
+- "Equal contribution"
 #- "Equal contribution"
 date: "2024-10-02T00:00:00Z"
 doi: ""
