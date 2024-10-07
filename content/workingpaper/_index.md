@@ -2,10 +2,10 @@
 title: "The Impact of Economic Sanctions on International Trade: Evidence from Network Analysis"
 authors:
 - admin
-#- Daehee Bak
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2024-10-02T00:00:00Z"
 doi: ""
 
@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Conflict Resolution*, under review"
 publication_short: ""
 
-abstract: Sanctions have long served as pivotal foreign policy instruments, yet while economic sanctions have been extensively studied, military sanctions remain relatively unexplored. This study marks an initial endeavor to highlight the growing significance of military sanctions and identify three distinct determinants of their implementation: the target's military dependence, the sender's military capabilities, and their foreign policy preferences. Empirical evidence from 1951 to 2010 reveals that the target's military dependence and the sender's military capabilities increase the use of military sanctions, while shared foreign policy preferences reduce it. Moreover, the use of economic sanctions significantly increases the likelihood of resorting to military sanctions. This research paves the way for further exploration into the strategic use of military sanctions and their potential synergies with economic sanctions, enhancing the overall effectiveness of this diplomatic tool.
+abstract: This study investigates the impact of economic sanctions on a target country’s global trade using network analysis. It contributes to existing literature by (1) capturing the complexity of trade relationships beyond conventional bilateral trade flows, and (2) quantifying a country’s position and influence in international trade. Economic sanctions disrupt the target’s trade network by undermining its partnerships, reachability, and bridging capacity. They reduce the target’s trade partners by limiting market access and deterring potential partners due to fear of retaliation. Disrupted trade routes lead to delays, rerouting, and increased logistical expenses, diminishing the target’s reachability. Sanctions also erode trust and demand among reliant countries, reducing the target’s bridging role. Empirical findings from 158 countries between 1950 and 2014 strongly support this theory. A case study of Iran illustrates that while the initial repercussions of sanctions are substantial, the target can employ strategies to mitigate their long-term impact.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

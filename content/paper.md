@@ -29,4 +29,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    content:
+      title: Working Papers
+      text: ""
+      filters:
+        folders:
+          - workingpaper
+        exclude_featured: false
+    design:
+      view: citation 
 ---
