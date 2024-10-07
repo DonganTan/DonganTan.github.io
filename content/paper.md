@@ -22,5 +22,7 @@ sections:
   - block: markdown
     content:
       title: Under Review
-      text: ## The Impact of Economic Sanctions on International Trade: Evidence from Network Analysis 
+      text:
 ---
+
+## The Impact of Economic Sanctions on International Trade: Evidence from Network Analysis
