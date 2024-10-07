@@ -19,7 +19,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-   - block: markdown
+  - block: markdown
     content:
       title: 'Under Review'
       subtitle: ''
