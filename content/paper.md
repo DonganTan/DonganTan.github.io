@@ -21,8 +21,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: 'Under Review'
-      subtitle: ''
+      title: Under Review
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
