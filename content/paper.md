@@ -19,10 +19,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
+  - block: collection
     content:
       title: Under Review
-      text:
+      text: ""
+      filters:
+        folders:
+          - underreview
+        exclude_featured: false
+    design:
+      view: citation
 ---
-
-## The Impact of Economic Sanctions on International Trade: Evidence from Network Analysis
