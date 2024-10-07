@@ -15,7 +15,8 @@ sections:
     id: teaching
     content:
       title: Instructor
-      subtitle: Teaching is my passion, and I find great joy in inspiring students to reach their full potential.
+      text: Teaching is my passion, and I find great joy in inspiring students to reach their full potential.
+      subtitle:''
       filters:
         folders:
           - teaching
