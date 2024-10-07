@@ -9,10 +9,7 @@ main:
     weight: 10
   - name: Research
     url: paper/
-    weight: 11
-  - name: Projects
-    url: projects/
-    weight: 11    
+    weight: 11  
   - name: Teaching
     url: teaching/
     weight: 12
