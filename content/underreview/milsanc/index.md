@@ -1,11 +1,11 @@
 ---
 title: "The Impact of Economic Sanctions on International Trade: Evidence from Network Analysis"
 authors:
-- "admin"
-- "Daehee Bak"
+- admin
+#- Daehee Bak
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
+#- "Equal contribution"
 date: "2024-10-02T00:00:00Z"
 doi: ""
 
