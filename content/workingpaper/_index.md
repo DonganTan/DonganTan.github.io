@@ -2,10 +2,10 @@
 title: "The Impact of Economic Sanctions on International Trade: Evidence from Network Analysis"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#- Robert Ford
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2024-10-02T00:00:00Z"
 doi: ""
 
