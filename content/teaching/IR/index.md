@@ -8,6 +8,11 @@ tags:
   - International Relations
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
+links:
+  - icon_pack: fab
+    icon: file-pdf
+    name: Download Syllabus
+    url: 'IR.pdf'
 ---
 
 ## Course Description
