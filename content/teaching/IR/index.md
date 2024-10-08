@@ -16,6 +16,9 @@ International politics is a fascinating and constantly evolving field that explo
 
 Through lectures, readings, discussions, and assignments, we will analyze international relations through the framework of “interests, interactions, and institutions.” We will explore a wide range of topics, including the nature of power and security, war and peace, international political economy, transnational politics, and global challenges. By the end of the course, you will have gained a deeper understanding of the complexities and nuances of international politics and developed critical thinking and analytical skills to analyze global issues.
 
+## Download Syllabus
+
+[Download the PDF syllabus](uploads/IR.pdf)
 
 ## Student Feedback
 
