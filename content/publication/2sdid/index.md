@@ -7,7 +7,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 show_year: false
-date: ""
+date: "XXXX"
 doi: "10.1111/ijsw.12707"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_types: ["article-journal"]
 publication: "*International Journal of Social Welfare*, forthcoming"
 publication_short: ""
 
-abstract: This study employs the two-stage difference-in-differences (2sDiD) estimator to investigate the causal effect of economic sanctions on political stability. It contributes to existing research by (1) re-evaluating sanctions’ impacts on political stability using newly introduced causal inference methods, and (2) distinguishing the effects of sanctions across various political regimes and economic globalization levels. The paper argues that economic sanctions create economic hardships for the target population, leading to public frustration towards their governments, which stimulates political mobilization and thereby decreases the country’s political stability. However, sanctions hurt democracies more than autocracies because autocratic regimes can suppress public dissent through repression and citizens face higher costs for opposition. Moreover, economic globalization offers targets alternatives to sanctioned products and services, potentially weakening sanctions thus damaging political stability more in low-globalized than in high-globalized countries. Empirical findings from 9,230 country-year observations between 1949 and 2022 largely align with the theoretical predictions, showing that economic sanctions undermine the target’s political stability, with these destabilizing effects contingent upon its political regime and economic globalization levels.
+abstract: "This study employs the two-stage difference-in-differences (2sDiD) estimator to investigate the causal effect of economic sanctions on political stability. It contributes to existing research by (1) re-evaluating sanctions’ impacts on political stability using newly introduced causal inference methods, and (2) distinguishing the effects of sanctions across various political regimes and economic globalization levels. The paper argues that economic sanctions create economic hardships for the target population, leading to public frustration towards their governments, which stimulates political mobilization and thereby decreases the country’s political stability. However, sanctions hurt democracies more than autocracies because autocratic regimes can suppress public dissent through repression and citizens face higher costs for opposition. Moreover, economic globalization offers targets alternatives to sanctioned products and services, potentially weakening sanctions thus damaging political stability more in low-globalized than in high-globalized countries. Empirical findings from 9,230 country-year observations between 1949 and 2022 largely align with the theoretical predictions, showing that economic sanctions undermine the target’s political stability, with these destabilizing effects contingent upon its political regime and economic globalization levels."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
