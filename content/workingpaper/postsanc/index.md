@@ -1,12 +1,12 @@
 ---
-title: "The Impact of Economic Sanctions on International Trade: Evidence from Network Analysis"
+title: "From Constraints to Recovery: Assessing Welfare Dynamics Post-Sanctions"
 authors:
 - admin
-#- Robert Ford
+- Hoan La
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-10-02T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Conflict Resolution*, under review"
+publication: "*Working Paper*, set for 2025 ISA"
 publication_short: ""
 
-abstract: This study investigates the impact of economic sanctions on a target country’s global trade using network analysis. It contributes to existing literature by (1) capturing the complexity of trade relationships beyond conventional bilateral trade flows, and (2) quantifying a country’s position and influence in international trade. Economic sanctions disrupt the target’s trade network by undermining its partnerships, reachability, and bridging capacity. They reduce the target’s trade partners by limiting market access and deterring potential partners due to fear of retaliation. Disrupted trade routes lead to delays, rerouting, and increased logistical expenses, diminishing the target’s reachability. Sanctions also erode trust and demand among reliant countries, reducing the target’s bridging role. Empirical findings from 158 countries between 1950 and 2014 strongly support this theory. A case study of Iran illustrates that while the initial repercussions of sanctions are substantial, the target can employ strategies to mitigate their long-term impact.
+abstract: "While economic sanctions have received considerable attention regarding their initiation, success, and consequences, the termination of sanctions and its determinants have only recently garnered attention. Equally significant is the understudied area of understanding the aftermath of sanctions removal. This paper investigates how countries recover after the lifting of economic sanctions and the factors influencing the speed and quality of this recovery. Specifically, we examine the transformation of the welfare of target countries post-sanctions relief, considering factors such as the characteristics of sanctions, target country attributes, and sender country dynamics. Utilizing the Global Sanctions Database covering 1,325 sanctions cases from 1950 to 2022, our analysis underscores that the pace and extent of welfare recovery hinge on variables including the duration, scope, and type of sanctions, the strength of the pre-sanction economy, and domestic political dynamics. This research sheds light on the nuanced dynamics of post-sanction welfare recovery, providing valuable insights for policymakers and practitioners navigating the complexities of sanctions regimes."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

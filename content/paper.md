@@ -7,8 +7,6 @@ design:
   # Section spacing
   spacing: '2rem'
 
-show_date: false
-
 # Page sections
 sections:
   - block: collection
