@@ -16,4 +16,4 @@ Political science research differs significantly from common political discourse
 
 ## Syllabus
 
-[Download the PDF syllabus](/static/uploads/method.pdf)
+[Download the PDF syllabus](Method.pdf)
