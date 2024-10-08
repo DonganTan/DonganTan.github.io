@@ -23,7 +23,7 @@ Through lectures, readings, discussions, and assignments, we will analyze intern
 
 ## Syllabus
 
-[Download the PDF syllabus]
+[Download the PDF syllabus](IR.pdf)
 
 ## Student Feedback
 
