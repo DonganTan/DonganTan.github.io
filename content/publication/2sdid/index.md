@@ -7,7 +7,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 show_year: false
-date: "XXXX"
+date: "2024"
 doi: "10.1111/ijsw.12707"
 
 # Schedule page publish date (NOT publication's date).
