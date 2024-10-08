@@ -3,9 +3,9 @@ title: "Determinants of Military Sanctions"
 authors:
 - admin
 - Daehee Bak
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: ""
 doi: ""
 
