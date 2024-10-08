@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*, presented at 2022 MPSA"
+publication: "presented at 2022 MPSA"
 publication_short: ""
 
 abstract: "Economic sanctions have become a common foreign policy tool, especially since the Cold War. Despite the traditional emphasis on dyadic trade, this paper examines how globalization—both dyadic and extradyadic trade—shapes the use and success of sanctions by influencing the sender country's leverage and the target country's vulnerability. Countries with higher levels of globalization are more likely to impose sanctions, as their greater economic leverage enhances the likelihood of success. Conversely, countries with lower levels of globalization are more vulnerable to external economic pressures, making them more frequent targets of sanctions, which are also more likely to succeed. Empirical analysis of all dyadic sanctions cases from 1970 to 2021, using a Heckman selection model to account for the strategic nature of sanctioning, strongly supports these expectations. This study underscores the crucial role of globalization in shaping sanctions regimes and calls for further research in this area."

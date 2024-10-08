@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*, presented at 2022 MPSA"
+publication: "presented at 2022 MPSA"
 publication_short: ""
 
 abstract: "Sanctions have become a popular policy tool and been widely used since the end of  the Cold War. Many studies have explored the mechanisms economic sanctions work, while little attention have been paid on military sanctions. Regrading the fact that military sanctions have been used more commonly than their economic counterparts, we investigate how globalization affects the use and success of  military sanctions. In particular, we argue that the sender is more likely to impose military sanctions when they perceive security threats from the targets, while the target's globalization mitigates such effects by making the senders questioning about the expected effectiveness of sanctions. Beside, the target's globalization can facilitate the evasion of military sanctions by making the sender states more costs, thus decreasing the success rate of sanctions."
