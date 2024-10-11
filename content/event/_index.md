@@ -6,7 +6,7 @@ section:
 - block: collection
   id: event
   content:
-    title: Event
+    title: ''
     subtitle: ''
     text: ''
       # Page type to display. E.g. post, talk, publication...
