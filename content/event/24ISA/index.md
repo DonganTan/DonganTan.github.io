@@ -1,14 +1,13 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
+title: 🧠 2024 ISA Conference
 summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+date: 2024-04-03
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - Conference
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
