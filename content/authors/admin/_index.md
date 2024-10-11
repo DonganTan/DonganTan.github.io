@@ -20,7 +20,7 @@ role: PhD Candidate in Political Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: _Texas Tech University_
+  - name: [Texas Tech University]
     url: https://www.depts.ttu.edu/politicalscience/
 
 # Social network links
