@@ -10,8 +10,6 @@ image:
   caption: ''
 ---
 
-## Presentation at the 2024 ISA Conference: "The Effect of Economic Sanctions on International Trade"
-
 I recently had the privilege of presenting my paper, _The Effect of Economic Sanctions on International Trade: Evidence from Network Analysis_, at the 2024 International Studies Association (ISA) conference.
 
 In this research, I explored the broader impacts of economic sanctions on global trade networks. By applying network analysis, I was able to demonstrate how sanctioned countries experience significant disruptions in their trade relationships. Specifically, the findings showed that these countries tend to develop less centralized trade networks with fewer partnerships, reduced reachability, and limited bridging capacity, all of which can weaken their position in the global trade system.
