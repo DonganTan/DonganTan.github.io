@@ -1,0 +1,6 @@
+#avatar {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height to maintain the aspect ratio */
+    border-radius: 50%; /* This keeps the avatar circular, remove if you want a square */
+  }
+  
