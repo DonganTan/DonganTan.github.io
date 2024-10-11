@@ -1,6 +1,6 @@
 ---
-title: Blog
-view: article-grid
+title: Event
+#view: article-grid
 
 section:
 - block: collection
