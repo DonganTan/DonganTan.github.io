@@ -58,7 +58,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# Avatar size
-custom_css:
-  - css/custom.css
