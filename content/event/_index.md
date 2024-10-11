@@ -1,10 +1,10 @@
 ---
-title: Event
-type: landing
+title: Blog
+view: article-grid
 
 section:
 - block: collection
-  id: 
+  id: event
   content:
       title: Event
       subtitle: ''
