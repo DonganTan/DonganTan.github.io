@@ -5,8 +5,7 @@
 
 # Appearance
 appearance:
-  #mode: system
-  theme: mr robut
+  mode: system
   color: emerald
 
 # SEO
