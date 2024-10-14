@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   #mode: system
-  theme: minimal
-  #color: emerald
+  theme: classic
+  color: emerald
 
 # SEO
 marketing:
