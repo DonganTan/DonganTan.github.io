@@ -33,8 +33,8 @@ profiles:
     url: https://github.com/DonganTan
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dongantan/
- # - icon: academicons/google-scholar
- #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=SNkHwSsAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-9552-1612
 
