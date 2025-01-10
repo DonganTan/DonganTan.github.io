@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Conflict Resolution*, under review"
+publication: "*International Studies Quarterly*, under review"
 publication_short: ""
 
 abstract: "Sanctions have long served as pivotal foreign policy instruments, yet while economic sanctions have been extensively studied, military sanctions remain relatively unexplored. This study marks an initial endeavor to highlight the growing significance of military sanctions and identify three distinct determinants of their implementation: the target's military dependence, the sender's military capabilities, and their foreign policy preferences. Empirical evidence from 1951 to 2010 reveals that the target's military dependence and the sender's military capabilities increase the use of military sanctions, while shared foreign policy preferences reduce it. Moreover, the use of economic sanctions significantly increases the likelihood of resorting to military sanctions. This research paves the way for further exploration into the strategic use of military sanctions and their potential synergies with economic sanctions, enhancing the overall effectiveness of this diplomatic tool."
